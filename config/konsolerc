@@ -1,0 +1,16 @@
+[Desktop Entry]
+DefaultProfile=nyakode.profile
+
+[KonsoleWindow]
+SaveGeometryOnExit=false
+
+[MainWindow]
+State=AAAA/wAAAAD9AAAAAAAAA8AAAAHRAAAABAAAAAQAAAAIAAAACPwAAAAA
+ToolBarsMovable=Disabled
+eDP1 Height 1080=495
+eDP1 Width 1920=960
+eDP1 XPosition=960
+eDP1 YPosition=29
+
+[ThumbnailsSettings]
+ThumbnailAlt=true

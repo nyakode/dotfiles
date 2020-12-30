@@ -1,0 +1,11 @@
+[Favorites-org.kde.plasma.kicker.favorites.instance-15-d6eeeb06-8ddb-487d-a98e-788379276755]
+ordering=applications:firefox.desktop,applications:code-oss.desktop,applications:sublime_text.desktop,applications:rstudio.desktop,applications:Apache NetBeans-12.2.desktop,applications:dbeaver.desktop
+
+[Favorites-org.kde.plasma.kicker.favorites.instance-15-global]
+ordering=applications:firefox.desktop,applications:code-oss.desktop,applications:sublime_text.desktop,applications:rstudio.desktop,applications:Apache NetBeans-12.2.desktop,applications:dbeaver.desktop
+
+[Favorites-org.kde.plasma.kickoff.favorites.instance-3-d6eeeb06-8ddb-487d-a98e-788379276755]
+ordering=preferred://browser,kontact.desktop,systemsettings.desktop,org.kde.dolphin.desktop,ktp-contactlist.desktop,org.kde.kate.desktop,org.kde.discover.desktop
+
+[Favorites-org.kde.plasma.kickoff.favorites.instance-3-global]
+ordering=preferred://browser,kontact.desktop,systemsettings.desktop,org.kde.dolphin.desktop,ktp-contactlist.desktop,org.kde.kate.desktop,org.kde.discover.desktop
